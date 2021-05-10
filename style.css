@@ -159,7 +159,7 @@ textarea::placeholder{
         height: 40vh;
     }
     .hero h1 {
-        font-size: 4em !important;
+    font-size: 2em !important;
     }
     .article {
         flex-wrap: wrap;
